@@ -16,9 +16,9 @@ NODE | EXPRESS | SOCKET.IO | MOCHA | CHAI
 
 [Live App](https://digi-doodle.now.sh/)
 
-[Client Repo](https://github.com/thinkful-ei-iguana/digi-doodle-client)
+[Client Repo](https://github.com/djllap/digi-doodle-client)
 
-[Server Repo](https://github.com/thinkful-ei-iguana/digi-doodle-server)
+[Server Repo](https://github.com/djllap/digi-doodle-server)
 
 ### Notes
 Digi-doodle uses websockets as a primary form of data exchange. As such, there are only two traditional endpoints. The game lifecycle states indicate the object passed to the client fron the server for each of the stages of a game.
